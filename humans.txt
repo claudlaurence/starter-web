@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Claudette Dionisio claudettelaurence.dionisio@infor.com
 
 # THANKS
 
