@@ -19,3 +19,6 @@ Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 2022 Git training. All Rights Reserved.
+
+### Updates
+Update from Dev 2
