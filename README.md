@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple websitr project for showing how to use Git and Github together. Adding for rebasing example.
+This is a simple websitr project for showing how to use Git and Github together. Adding for rebasing example. Then more changes frome feature branch
 
 ## Introduction
 
